@@ -1,5 +1,5 @@
-# Project-Lava
-Member management System
+# Project-Lava ✨
+This project is a web application for a member management system. An admin can assign tasks to other users and if he accepts, the task is added to the user's dashboard. This way we can have a record of what all members are doing. The backend is done in Django and Graphene and the frontend will be in React.
 
 # Ways to contribute:
 1. Solve the issues which are listed
